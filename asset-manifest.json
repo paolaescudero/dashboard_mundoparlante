@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dashboard_mundoparlante/static/css/main.8ab6f918.chunk.css",
+    "main.js": "/dashboard_mundoparlante/static/js/main.5e3f1562.chunk.js",
+    "main.js.map": "/dashboard_mundoparlante/static/js/main.5e3f1562.chunk.js.map",
+    "runtime-main.js": "/dashboard_mundoparlante/static/js/runtime-main.5cc8d3dd.js",
+    "runtime-main.js.map": "/dashboard_mundoparlante/static/js/runtime-main.5cc8d3dd.js.map",
+    "static/js/2.5ad1310c.chunk.js": "/dashboard_mundoparlante/static/js/2.5ad1310c.chunk.js",
+    "static/js/2.5ad1310c.chunk.js.map": "/dashboard_mundoparlante/static/js/2.5ad1310c.chunk.js.map",
+    "index.html": "/dashboard_mundoparlante/index.html",
+    "precache-manifest.efd19d8307e21f7f805c9c7d465b2b69.js": "/dashboard_mundoparlante/precache-manifest.efd19d8307e21f7f805c9c7d465b2b69.js",
+    "service-worker.js": "/dashboard_mundoparlante/service-worker.js",
+    "static/css/main.8ab6f918.chunk.css.map": "/dashboard_mundoparlante/static/css/main.8ab6f918.chunk.css.map",
+    "static/js/2.5ad1310c.chunk.js.LICENSE.txt": "/dashboard_mundoparlante/static/js/2.5ad1310c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dashboard_mundoparlante/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cc8d3dd.js",
+    "static/js/2.5ad1310c.chunk.js",
+    "static/css/main.8ab6f918.chunk.css",
+    "static/js/main.5e3f1562.chunk.js"
+  ]
+}

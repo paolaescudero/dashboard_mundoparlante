@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dashboard_mundoparlante/precache-manifest.5e7e0932d37c54ccc5f4c14413b66693.js"
+  "/dashboard_mundoparlante/precache-manifest.076b7947a4bf4c8435817f6c50866527.js"
 );
 
 self.addEventListener('message', (event) => {

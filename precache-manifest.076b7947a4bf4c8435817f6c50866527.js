@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d8ad7fe9d4d924635295d5d4a7f389d",
+    "revision": "5f12bfb0701d35a6c3ff0167b18839cc",
     "url": "/dashboard_mundoparlante/index.html"
   },
   {
-    "revision": "fe3d82f3847a37a9cf6d",
+    "revision": "3e90d905f7d65463c437",
     "url": "/dashboard_mundoparlante/static/css/main.8ab6f918.chunk.css"
   },
   {
-    "revision": "4d551b7063706c5c84c8",
-    "url": "/dashboard_mundoparlante/static/js/2.5ad1310c.chunk.js"
+    "revision": "ab23404bb5a965a78538",
+    "url": "/dashboard_mundoparlante/static/js/2.814b148b.chunk.js"
   },
   {
-    "revision": "99bd0487192ec9e7d9ee8fbbd91ee444",
-    "url": "/dashboard_mundoparlante/static/js/2.5ad1310c.chunk.js.LICENSE.txt"
+    "revision": "413468e0320ef6cf9fd1bfdeecbc04ff",
+    "url": "/dashboard_mundoparlante/static/js/2.814b148b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fe3d82f3847a37a9cf6d",
-    "url": "/dashboard_mundoparlante/static/js/main.a385aece.chunk.js"
+    "revision": "3e90d905f7d65463c437",
+    "url": "/dashboard_mundoparlante/static/js/main.99795912.chunk.js"
   },
   {
     "revision": "ee13bff3bb03570b2a44",

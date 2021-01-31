@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d72972610a3bb3335ba7c46cadf9f5f5",
+    "revision": "8d8ad7fe9d4d924635295d5d4a7f389d",
     "url": "/dashboard_mundoparlante/index.html"
   },
   {
-    "revision": "07ac27039fdb90bd7541",
+    "revision": "fe3d82f3847a37a9cf6d",
     "url": "/dashboard_mundoparlante/static/css/main.8ab6f918.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dashboard_mundoparlante/static/js/2.5ad1310c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "07ac27039fdb90bd7541",
-    "url": "/dashboard_mundoparlante/static/js/main.5e3f1562.chunk.js"
+    "revision": "fe3d82f3847a37a9cf6d",
+    "url": "/dashboard_mundoparlante/static/js/main.a385aece.chunk.js"
   },
   {
     "revision": "ee13bff3bb03570b2a44",
